@@ -10,7 +10,7 @@ int num1,num2,multiply;
   printf(" enter num2:",num2);
   scanf("%d",&num2);
 
-  multiply=num1+num2;
+  multiply=num1*num2;
   printf("multiplication of two numbers is:%d",multiply);
 
   return 0;
