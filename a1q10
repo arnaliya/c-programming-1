@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+
+  float rs=0,usd=0,pounds=0;
+
+
+
+
+  return 0;
+}
