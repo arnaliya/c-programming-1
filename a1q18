@@ -1,4 +1,4 @@
-//17.Calculate area and perimeter of rectangle
+//18.Calculate area and perimeter of rectangle
 #include<stdio.h>
 int main()
 {
