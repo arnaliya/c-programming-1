@@ -4,11 +4,11 @@
 int main()
 {
     int math,sci,ss,total=0,average=0;
-    printf("enter marks in math:");
+    printf("\nenter marks in math:");
     scanf("%d",&math);
-    printf("enter marks in science:");
+    printf("\nenter marks in science:");
     scanf("%d",&sci);
-    printf("enter marks in social science:");
+    printf("\nenter marks in social science:");
     scanf("%d",&ss);
     
     total=math+sci+ss;
